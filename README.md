@@ -2,6 +2,8 @@
 
 This repository demonstrates how a researcher could extract PubMed metadata.
 
+[Google Slides Presentation](https://docs.google.com/presentation/d/1OdEC9fRUzacWshZbD6YTkUjuLa-4oXxxj4cSuIlm49c/edit?usp=sharing)
+
 ## References:
 
 1. [Entrez Programming Utilties Help PDF](https://www.ncbi.nlm.nih.gov/books/NBK25501/pdf/Bookshelf_NBK25501.pdf)
